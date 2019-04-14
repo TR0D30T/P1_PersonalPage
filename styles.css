@@ -4,7 +4,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background-image: url(images/html-color.jpg);
+  background-image: url(img/html-color.jpg);
   background-position: bottom -200px right -150px;
   
 
@@ -60,7 +60,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/e3.jpeg') no-repeat top center ;
+  background: url('img/e3.jpeg') no-repeat top center ;
   background-size: cover;
   background-position: center;
   overflow: hidden;

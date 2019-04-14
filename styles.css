@@ -98,7 +98,7 @@ header .profile-image:hover {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
-  text-align: left;
+  text-align: center;
   color: white;
   background: black;
   border-bottom: 4px solid red;
@@ -253,4 +253,3 @@ a.social:hover {
   }
 
 }
-
